@@ -5,7 +5,7 @@
 * Explored multiple recommendation algorithms and extracted keywords from job descriptions to implement a Content-based algorithm.
 
 ## Architecture
-![image](architecture.png)
+![Architecture](structure.png)
 
 
 ## Demo
